@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Katuri Vyshnavi, completed my B.Tech in Computer Science and Engineering with a specialization in Data Science. I have hands-on experience in Full Stack Development and Data Analytics through internships at IBM and long-term project work.I am recently trained in Python,Oracle Sql, webtechnologies and I am passionate about applying my skills to real-world problems and contributing as a dedicated and quick-learning team member.<br>I got 9.5 gpa in 10th grade, 94% in 12th and 8.54 cgpa in B.Tech
+I am Katuri Vyshnavi, completed my B.Tech in Computer Science and Engineering with a specialization in Data Science. I have hands-on experience in Full Stack Development and Data Analytics through internships at IBM and long-term project work.I am recently trained in Python,Oracle Sql, webtechnologies and I am passionate about applying my skills to real-world problems and contributing as a dedicated and quick-learning team member.I got 9.5 gpa in 10th grade, 94% in 12th and 8.54 cgpa in B.Tech
 
 
 ## 🌐 Socials:
