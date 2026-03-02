@@ -16,8 +16,8 @@ I am Katuri Vyshnavi, completed my B.Tech in Computer Science and Engineering wi
 # 💻 LeetCode Stats:
 ![](https://leetcode-stats-rocket.vercel.app/api?username=vyshnavikaturi&theme=dark)
 ![](https://leetcard.jacoblin.cool/vyshnavikaturi?theme=dark&font=Recursive)
-
 ![](https://leetcode-stats-rocket.vercel.app/api?username=vyshnavikaturi&theme=dark&show_streak=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=VyshnaviKaturi&icon=0&color=0)](https://visitcount.itsvg.in)
 
